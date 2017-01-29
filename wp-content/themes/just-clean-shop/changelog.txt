@@ -1,0 +1,71 @@
+== changelog ==
+
+= 1.7.8 =
+- title-tag
+
+= 1.7.7 =
+- Language - Uzbek
+
+= 1.7.6 =
+- textarea css - outline:none
+
+= 1.7.5
+- Language - Czech
+
+= 1.7.4
+- H5 style.css 
+
+= 1.7.3
+- English (Australia), English (Canada), English (UK), Scottish Gaelic, Occitan, Ukrainian
+
+= 1.7.2
+- add Screen-reader text 
+
+= 1.7.1
+- remove this code : <title><?php wp_title( '|', true, 'right' ); ?></title>
+- bug fix - Translation
+
+= 1.7
+- size logo
+
+= 1.6.8 =
+- add Indonesian
+
+= 1.6.7 =
+- add Portuguese (Portugal)
+
+= 1.6.6 =
+- add Azerbaijani, Hazaragi, Myanmar, Pashto, Uighur
+
+= 1.6.5 =
+- add Lithuanian, Bosnian, Galician, Slovenian, Latvian, Estonian, Basque, Welsh, Icelandic
+
+= 1.6.4 =
+- add Bengali, Persian, Tagalog, Catalan, Serbian, Albanian, Slovak, Croatian
+
+= 1.6.3 =
+- add Bulgarian, German (Switzerland), Spanish (Mexico), Spanish (Peru), Finnish, Hebrew, Macedonian, Norwegian, Romanian, Swedish, Thai, Vietnamese, Chinese (Taiwan)
+
+= 1.6.2 =
+- add Danish, Portuguese (Brazil), 
+
+= 1.6.1 =
+- add Turkish
+	
+= 1.6 =
+- WordPress 4.2 ready
+
+= 1.5.7 =
+- Arabic, Korean
+
+= 1.5 =
+- Fix bug
+
+= 1.4 =
+- add Czech
+
+= 1.3 =
+- Fix bug
+
+= 1.0 =
+* Initial release
